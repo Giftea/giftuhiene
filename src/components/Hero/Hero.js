@@ -4,6 +4,7 @@ import {
   Section,
   SectionText,
   SectionTitle,
+  SectionDivider,
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
@@ -23,6 +24,7 @@ const Hero = (props) => (
         </SectionText>
         {/* <Button onClick={props.handleClick}>View Projects</Button> */}
       </LeftSection>
+      <SectionDivider />
     </Section>
   </>
 );
