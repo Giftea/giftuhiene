@@ -24,14 +24,11 @@ const Footer = () => {
           <Slogan>Peerless passion for Web Development</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://github.com/Giftea">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.linkedin.com/in/gift-uhiene">
             <AiFillLinkedin size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://google.com">
-            <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>

@@ -21,7 +21,7 @@ const Hero = (props) => (
           process of my career. I am determined, detailed, analytic and a
           challenge-loving chap who's open to new concepts and ideas.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        {/* <Button onClick={props.handleClick}>View Projects</Button> */}
       </LeftSection>
     </Section>
   </>
