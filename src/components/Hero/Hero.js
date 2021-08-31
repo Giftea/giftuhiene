@@ -21,10 +21,10 @@ const Hero = (props) => (
           A Reactjs/Nextjs Developer who's in love with the ever learning
           process of my career. I am determined, detailed, analytic and a
           challenge-loving chap who's open to new concepts and ideas.
-        </SectionText>
+        </SectionText> <SectionDivider />
         {/* <Button onClick={props.handleClick}>View Projects</Button> */}
       </LeftSection>
-      <SectionDivider />
+     
     </Section>
   </>
 );
