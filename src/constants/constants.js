@@ -4,9 +4,9 @@ export const projects = [
     description:
       "Using Reactjs, Node.js/Express & MongoDB I created a fullstack e-commerce site.",
     image: "/images/1.png",
-    tags: ["MongoDB", "Express", "ReactJs", "NodeJs"],
-    source: "https://kiddiezgo.herokuapp.com/",
-    visit: "https://github.com/Giftea/shopApp",
+    tags: ["MongoDB", "Redux", "ReactJs", "NodeJs"],
+    visit: "https://kiddiezgo.herokuapp.com/",
+    source: "https://github.com/Giftea/shopApp",
     id: 0,
   },
   {
@@ -36,7 +36,7 @@ export const projects = [
     image: "/images/4.png",
     tags: ["Next.js"],
     source: "https://github.com/Giftea/next-landingpage-1",
-    visit: "next-landingpage-1.vercel.app",
+    visit: "https://next-landingpage-1.vercel.app",
     id: 3,
   },
   {
@@ -47,7 +47,7 @@ export const projects = [
     tags: ["HTml", "CSS", "JavaScript"],
     source: "https://github.com/Giftea/bakery",
     visit: "https://jovial-turing-1d6bd6.netlify.app",
-    id: 2,
+    id: 4,
   },
   {
     title: "Hair Salon",
@@ -57,7 +57,7 @@ export const projects = [
     tags: ["HTml", "CSS", "JavaScript"],
     source: "https://github.com/Giftea/pandora-beauty-salon",
     visit: "https://cocky-edison-a83936.netlify.app",
-    id: 3,
+    id: 5,
   },
 ];
 
