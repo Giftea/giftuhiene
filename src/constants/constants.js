@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/3.png",
     tags: ["React", "Chat Engine"],
     source: "https://github.com/Giftea/chat-app",
-    visit: "https://private-group-chat.netlify.app/",
+    visit: "https://private-group-chat.netlify.app",
     id: 2,
   },
   {
@@ -39,12 +39,31 @@ export const projects = [
     visit: "next-landingpage-1.vercel.app",
     id: 3,
   },
+  {
+    title: "Bakery Page",
+    description:
+      "A beautiful web interface for a bakery shop with cool animations.",
+    image: "/images/5.png",
+    tags: ["HTml", "CSS", "JavaScript"],
+    source: "https://github.com/Giftea/bakery",
+    visit: "https://jovial-turing-1d6bd6.netlify.app",
+    id: 2,
+  },
+  {
+    title: "Hair Salon",
+    description:
+      "A beautiful web interface for a hair salon with cool animations.",
+    image: "/images/6.png",
+    tags: ["HTml", "CSS", "JavaScript"],
+    source: "https://github.com/Giftea/pandora-beauty-salon",
+    visit: "https://cocky-edison-a83936.netlify.app",
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2018, text: "Started my journey" },
+  { year: 2019, text: "Intern at JSMinna" },
+  { year: 2020, text: "Worked as a Frontend Developer at ASIN5 Lab" },
+  { year: 2021, text: "Frontend Developer at Loctech" },
 ];
