@@ -1,3 +1,18 @@
+export const Logo ="/images/LOGO2.png"
+
+export const Ellipse1 ="/images/Ellipse 1 (1).png"
+
+export const Ellipse2 ="/images/Ellipse 2.png"
+
+export const Ellipse3 ="/images/Ellipse 3.png"
+
+export const Ellipse4 ="/images/Ellipse 4.png"
+
+export const Ellipse5 ="/images/Ellipse 5.png"
+
+export const Ellipse6 ="/images/Ellipse 6.png"
+
+
 export const projects = [
   {
     title: "Kiddiezgo E-commerce",
